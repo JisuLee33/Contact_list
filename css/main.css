@@ -1,0 +1,40 @@
+/* American palette */
+form {
+  width: 300px;
+  border: 1px solid;
+  background-color: #55efc4;
+  margin: 0 auto;
+}
+
+input {
+  width: 150px;
+  display: block;
+  margin: 10px auto;
+  cursor: pointer;
+  text-align: center;
+  border: none;
+  height: 30px;
+}
+
+/* .inName{background-color:#fd79a8} */
+/* .inPw{background-color:#fd79a8} */
+.submit {
+  width: 100px;
+  height: 30px;
+  background-color: #6c5ce7;
+  margin: 20px auto;
+}
+
+.checkCapt {
+  border: none;
+  height: 30px;
+  display: block;
+  margin: 0 auto;
+}
+
+.loginCap {
+  width: 200px;
+  height: 150px;
+  margin: 0 auto;
+  display: block;
+}
